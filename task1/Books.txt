@@ -1,0 +1,31 @@
+id=1,title=Without Honor,author=Cuthbert Buckley,publisher=Adak Multimedia,year=2003,numPage=381,price=23.35
+id=2,title=North from Home,author=Edie Lee,publisher=Alternative Direct Media,year=2001,numPage=448,price=34.22
+id=3,title=The Boy in the Park,author=Edie Lee,publisher=Alternative Direct Media,year=2019,numPage=124,price=51.1
+id=4,title=The Boy in the Park,author=Cuthbert Buckley,publisher=M & S Implement Company,year=1999,numPage=779,price=24.0
+id=5,title=Doom's Seed,author=Honey Rios,publisher=M & S Implement Company,year=2009,numPage=895,price=25.45
+id=6,title=Town of Foxes,author=Tatum Cobbett,publisher=Adak Multimedia,year=2009,numPage=436,price=63.0
+id=7,title=A Knife Action,author=Sarah Robson,publisher=Adak Multimedia,year=1994,numPage=237,price=51.35
+id=8,title=A Priceless Valentine,author=Tatum Cobbett,publisher=M & S Implement Company,year=2005,numPage=336,price=21.13
+id=9,title=The Mage's Chord,author=Maia Annable,publisher=Alternative Direct Media,year=2018,numPage=225,price=14.57
+id=10,title=Appleby and Iron,author=Cuthbert Buckley,publisher=Alternative Direct Media,year=2003,numPage=301,price=22.99
+id=11,title=The Spectre of Death,author=Sarah Robson,publisher=Anoka County Shopper,year=2002,numPage=340,price=53.76
+id=12,title=Vampire Ribbons,author=Honey Rios,publisher=Anoka County Shopper,year=2001,numPage=430,price=57.85
+id=13,title=Stallion Player,author=Maia Annable,publisher=Adak Multimedia,year=2000,numPage=240,price=42.84
+id=14,title=Cloud's Anthem,author=Tatum Cobbett,publisher=Adak Multimedia,year=1999,numPage=320,price=46.45
+id=15,title=The Garden of the Lens,author=Edie Lee,publisher=Anoka County Shopper,year=2019,numPage=200,price=54.23
+id=16,title=The Friday Spider,author=Tatum Cobbett,publisher=Alternative Direct Media,year=2017,numPage=199,price=35.12
+id=17,title=Last Logic,author=Maia Annable,publisher=Anoka County Shopper,year=2016,numPage=438,price=83.12
+id=18,title=Exit Rogue,author=Maia Annable,publisher=Anoka County Shopper,year=2015,numPage=326,price=12.81
+id=19,title=Strong Intentions,author=Cuthbert Buckley,publisher=M & S Implement Company,year=2012,numPage=273,price=15.83
+id=20,title=Daughters of the Oasis,author=Adrian Bradley,publisher=Alternative Direct Media,year=2013,numPage=743,price=35.83
+id=21,title=Wife in Silk,author=Edie Lee,publisher=Adak Multimedia,year=2012,numPage=256,price=83.47
+id=22,title=A Doctor's Man,author=Adrian Bradley,publisher=Adak Multimedia,year=2009,numPage=361,price=83.11
+id=23,title=Stork Idle,author=Adrian Bradley,publisher=Anoka County Shopper,year=2010,numPage=125,price=34.73
+id=24,title=A Weekend for Julia,author=Tatum Cobbett,publisher=Anoka County Shopper,year=2008,numPage=99,price=14.63
+id=25,title=The Sword of the Jimmy,author=Cuthbert Buckley,publisher=Anoka County Shopper,year=2007,numPage=215,price=33.99
+id=26,title=Becca's Trick,author=Honey Rios,publisher=Anoka County Shopper,year=2006,numPage=456,price=24.0
+id=27,title=A Conspiracy of Scandal,author=Cuthbert Buckley,publisher=Alternative Direct Media,year=2004,numPage=78,price=82.55
+id=28,title=Fool Badge,author=Sarah Robson,publisher=M & S Implement Company,year=2000,numPage=124,price=63.0
+id=29,title=The Valley of Pern,author=Maia Annable,publisher=Adak Multimedia,year=2002,numPage=341,price=23.99
+id=30,title=A Child's Essence,author=Sarah Robson,publisher=Adak Multimedia,year=2001,numPage=435,price=74.99
+id=31,title=Arc of Betrayal,author=Cuthbert Buckley,publisher=Adak Multimedia,year=2019,numPage=123,price=39.99

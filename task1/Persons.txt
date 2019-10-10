@@ -1,0 +1,4 @@
+id=1,name=admin,password=111111,mail=admin@gmail.com,role=ADMIN
+id=2,name=artem,password=123456,mail=artem@gmail.com,role=USER
+id=3,name=paul,password=123,mail=paul@gmail.com,role=USER
+id=3,name=artna,password=123456,mail=asdasd@mail.ru,role=USER
